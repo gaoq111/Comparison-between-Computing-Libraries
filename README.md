@@ -8,6 +8,7 @@ Ensure that the following libraries are available in a Python3 environment:
 - tqdm
 - tensorflow (2.0+)
 - matplotlib
+- torch
 
 Note that our expiriments are computationally expensive. A GPU is needed to run the sections that tests for speedups that GPUs provide for TensorFlow and PyTorch. For reference, we used a computer with the following specs:
 - CPU: AMD EPYC 7453 28-Core Processor
