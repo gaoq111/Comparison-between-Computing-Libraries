@@ -20,19 +20,19 @@ Run all the cells in the notebook.
 
 ##### Multiplication:
 ###### Time(s)-Size curve on Matrix Multiplication
-<img src="matmul_all.png" alt="drawing" width="50%"/>
+<img src="assets/matmul_all.png" alt="drawing" width="50%"/>
 
 ###### Time(s)-Size curve on Matrix Multiplication for GPU settings
-<img src="matmul_gpu.png" alt="drawing" width="50%"/>
+<img src="assets/matmul_gpu.png" alt="drawing" width="50%"/>
 
 ##### Inverse
 ###### Time(s)-Size curve on Matrix Inverse
-<img src="inv_all.jpg" alt="Time(s)-Size curve on Matrix Inverse" width="50%"/>
+<img src="assets/inv_all.jpg" alt="Time(s)-Size curve on Matrix Inverse" width="50%"/>
 
 ###### Time(s)-Size curve on Matrix Inverse for GPU settings
-<img src="inv_gpu.png" alt="Time(s)-Size curve on Matrix Inverse for GPU settings" width="50%"/>
+<img src="assets/inv_gpu.png" alt="Time(s)-Size curve on Matrix Inverse for GPU settings" width="50%"/>
 
 
 ##### QR Factorization
 ###### Time(s)-Size curve on QR factorization for all settings
-<img src="QR_all.png" alt="Time(s)-Size curve on QR factorization for GPU settings" width="50%"/>
+<img src="assets/QR_all.png" alt="Time(s)-Size curve on QR factorization for GPU settings" width="50%"/>
